@@ -1,3 +1,4 @@
+
 # Contributing to the selinux Linux System Role
 
 ## Where to start
